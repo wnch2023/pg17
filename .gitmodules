@@ -1,0 +1,3 @@
+[submodule "contrib/pgvector"]
+	path = contrib/pgvector
+	url = https://github.com/pgvector/pgvector.git
